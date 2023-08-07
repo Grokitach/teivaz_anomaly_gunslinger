@@ -4,5 +4,6 @@ Teivaz' Port of Gunslinger guns &amp; animations for STALKER Anomaly. This is a 
 
 # Credits
 
-Gunslinger team:  https://www.moddb.com/mods/gunslinger-mod
-Teivaz: https://github.com/TeivazCZ/, https://www.moddb.com/members/teivazcz
+- Gunslinger team:  https://www.moddb.com/mods/gunslinger-mod
+  
+- Teivaz: https://github.com/TeivazCZ/, https://www.moddb.com/members/teivazcz
